@@ -1,2 +1,2 @@
 # Hour-of-code
-## Random practice codes
+### Random practice codes
